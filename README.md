@@ -1,3 +1,3 @@
 # LearnReactNativeUsingExpo
 
-This repository is created for learn React Native use Expo CLI.
+This repository is created to learn React Native use Expo CLI.
